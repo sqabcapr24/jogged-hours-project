@@ -1,7 +1,6 @@
-# Basic Project
-## Basic Project Structure
+# Jogged Hours Project
 
-*Default Structure for A Basic Project*
+*A Project which logs jogged hours*
 
 **Java 8**
 
